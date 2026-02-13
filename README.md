@@ -10,7 +10,7 @@ I'm an engineering student passionate about Backend and Cloud technologies. I lo
 - Ask me about **Backend and Golang**
 - How to reach me: **adithyap455@proton.me**
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 - Golang
@@ -29,11 +29,12 @@ I'm an engineering student passionate about Backend and Cloud technologies. I lo
 - Redis
 - MySQL
 - Git and GitHub
+- Docker
 - Linux
 - Postman
 - AWS (basics)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Tickr](https://github.com/blueberry-adii/tickr)
 Tickr is a robust asynchronous job processing system I built using Go, Redis and MySQL. It's designed to offload heavy tasks from APIs so they don't block, handling everything in the background with concurrency and reliability.
@@ -41,11 +42,11 @@ Tickr is a robust asynchronous job processing system I built using Go, Redis and
 ### [StudentFlow](https://github.com/blueberry-adii/StudentFlow)
 StudentFlow is a comprehensive student productivity application designed to help students manage tasks, track daily routines, and gain insights into their study habits. It features a modern, responsive UI and a robust backend API. Built using React JS, Typescript, NodeJS, TailwindCSS, Firebase Auth, and MySQL
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 - [What I Learned Building a Job Scheduler That Doesn’t Trust Redis](https://dev.to/blueberry_adii/what-i-learned-building-a-job-scheduler-that-doesnt-trust-redis-5fd1)
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaPrasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-prasad-095ab9329/)
 [![X](https://img.shields.io/badge/Twitter-@adithyap455-blue?style=flat&logo=twitter)](https://twitter.com/[YOUR_TWITTER_HANDLE])
