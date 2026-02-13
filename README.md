@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**blueberry-adii/blueberry-adii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Aditya Prasad, a B.E. student interested in backend engineering, APIs, and scalable systems, Learning by building real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+Languages
+- Go
+- Java
+- JavaScript
+- TypeScript
+- Dart
+
+Frontend
+- React
+- Tailwind CSS
+- HTML / CSS
+
+Backend
+- Node.js
+- Golang/Gin
+- Express.js
+- REST APIs
+- Redis and Caching
+- Auth and MySQL
+
+Tools
+- Git & GitHub
+- Linux
+- Postman
+- AWS
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-prasad-095ab9329/)
+- Email: adithyap455@proton.me
