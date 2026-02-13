@@ -49,7 +49,7 @@ StudentFlow is a comprehensive student productivity application designed to help
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaPrasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-prasad-095ab9329/)
-[![X](https://img.shields.io/badge/Twitter-@adithyap455-blue?style=flat&logo=twitter)](https://twitter.com/[YOUR_TWITTER_HANDLE])
+[![X](https://img.shields.io/badge/X-@adithyap455-blue?style=flat&logo=twitter)](https://x.com/AdityaPrasad455)
 [![Email](https://img.shields.io/badge/Email-adithyap455@proton.me-red?style=flat&logo=gmail)](mailto:adithyap455@proton.me)
 
 ## 🎓 Education
