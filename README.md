@@ -4,7 +4,7 @@
 
 I'm an engineering student passionate about Backend and Cloud technologies. I love building and learning new tech and am constantly exploring new technologies and best practices.
 
-- I'm currently working on **SDKs in Golang**
+- I'm currently working on a Flutter + Firebase App
 - I'm currently learning **AWS, CI/CD and Cloud fundamentals**
 - I'm looking to collaborate on **Backend projects using NodeJS or Golang, React js or Flutter projects**
 - Ask me about **Backend and Golang**
